@@ -1,0 +1,38 @@
+a{
+	background-color: gold;
+	color: blue;
+	padding: 8px;
+	border: solid tomato 2px;
+	margin: auto;
+	
+
+
+}
+
+h1{
+	background-color: blanchedalmond;
+	border: 2px solid gray;
+	font-size: 30px;
+
+}
+
+p{
+	background-color: snow;
+
+}
+.heading1{
+	background-color: yellow;
+}
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+
+
+}
+th, td{
+	background-color: ghostwhite;
+	border-color: tomato;
+	padding: 15px;
+}
+
